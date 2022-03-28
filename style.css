@@ -1,0 +1,46 @@
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+#container{
+    width: 1000px;
+    background: #EEE;
+}
+h1{
+    background: black;
+    color: white;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+.nav{
+    width: 1000px;
+    background: red;
+}
+.nav ul li{
+    list-style: none;
+    float: left;
+    margin: 1px;
+    padding: 6px 139px;
+}
+.nav ul{
+    float: left;
+    background: red;
+}
+p {
+    text-align: justify;
+    width: 1000px;
+    height: 112px;
+    padding: 10px;
+}
+.para h2{
+    padding: 15px;
+}
+.footer{
+    text-align: center;
+    background: black;
+    color: red;
+    padding: 20px;
+    font-size: 25px;
+}
